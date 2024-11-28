@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PratikRaval123" alt="PratikRaval123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/PratikRaval30463" target="blank"><img src="https://img.shields.io/twitter/follow/harshil008i?logo=twitter&style=for-the-badge" alt="harshil008i" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PratikRaval30463" target="blank"><img src="https://img.shields.io/twitter/follow/harshil008i?logo=twitter&style=for-the-badge" alt="PratikRaval30463" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
